@@ -1,3 +1,4 @@
 theme: jekyll-theme-minimal
 title: [Didier Michel JOOMUN]
 description: [Computers, tech, sounds and more]
+markdown: kramdown
