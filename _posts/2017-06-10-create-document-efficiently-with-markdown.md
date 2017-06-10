@@ -1,3 +1,9 @@
+---
+layout: post
+title:  "Creating documents effeciently with markdown"
+date:   2017-06-10
+categories: markdown productivity document publishing
+---
 <script src="https://unpkg.com/mermaid@7.0.3/dist/mermaid.min.js"></script>
 
 ## What is markdown
