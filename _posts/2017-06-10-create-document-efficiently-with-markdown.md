@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "Creating documents effeciently with markdown"
+title:  "Creating documents efficiently with markdown"
 date:   2017-06-10
 categories: markdown productivity document publishing
 ---
