@@ -19,6 +19,12 @@ For example to create an article with a title (h1), subtitle(h2) and text, the f
 ## This is my subtitle
 
 This is my content
+
+And below is a table : 
+
+|Column1|Column2|
+|-------|-------|
+|data1|data2|
 ```
 
 More details about common markdown syntax can be found on [Daring Fireball website](https://daringfireball.net/projects/markdown/syntax) and [Markdown tutorial](http://www.markdowntutorial.com/).
@@ -29,6 +35,7 @@ Many kinds of markdowns exists, giving possibilities to create textual and graph
 
 Some of the most commons are 
 - [GitHub Flavored Markdown](https://help.github.com/articles/about-writing-and-formatting-on-github/) - Used for GitHub README.md and project documentation.
+- [Gitbook](https://www.gitbook.com/) - One the the best tool out there to create and share documents ! 
 - [mermaid](https://knsv.github.io/mermaid/) - For flowcharts, gantt, sequence diagram and more
 - [plantUML](http://plantuml.com/) - UML and non UML diagrams such as gantt and sequence diagrams.
 - [Graphviz](http://www.graphviz.org/) - Most focused on graphs
